@@ -33,3 +33,5 @@ This project focuses on cleaning and exploring the Titanic passenger dataset to 
 - Fare showed positive correlation with survival
 - Age had a moderate impact on survival
 
+
+## Plots
