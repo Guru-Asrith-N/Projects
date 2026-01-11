@@ -42,3 +42,4 @@ This project focuses on cleaning and exploring the Titanic passenger dataset to 
 
 <img width="624" height="477" alt="Image" src="https://github.com/user-attachments/assets/fd2c4d04-7917-4984-8936-4677fa6611b1" />
 
+<img width="624" height="371" alt="Image" src="https://github.com/user-attachments/assets/eaac68fe-e11a-4c4a-83f8-ecf6850206fb" />
