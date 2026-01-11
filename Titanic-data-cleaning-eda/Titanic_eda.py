@@ -39,15 +39,10 @@ sns.histplot(df['Age'],kde=True)
 plt.title("Age distribution")
 plt.show()
 
-plt.figure(figsize=(10,6))
-sns.heatmap(df.corr(), annot = True, cmap = 'coolwarm')
-plt.title("Feature correlation")
-plt.show()
-
 numeric_df = df.select_dtypes(include=['int64','float64'])
 
 plt.figure(figsize=(10,6))
 sns.heatmap(numeric_df.corr(), annot  = True,cmap='coolwarm')
 plt.title("Correlation Heatmap(Numeric Features only)")
-
 plt.show()
+
