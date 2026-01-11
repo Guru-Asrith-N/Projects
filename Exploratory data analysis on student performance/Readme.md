@@ -1,4 +1,4 @@
-# Student Performance Analysis 📊
+# Student Performance Analysis 
 
 ## Overview
 This project performs data cleaning and exploratory data analysis (EDA) on a student performance dataset to understand factors affecting academic outcomes.
@@ -21,6 +21,12 @@ This project performs data cleaning and exploratory data analysis (EDA) on a stu
 - Pandas
 - Matplotlib
 - Seaborn
+
+## Key Insights
+- Students with higher study time tend to achieve better final grades
+- Previous academic failures have a strong negative correlation with performance
+- Absenteeism negatively affects student outcomes
+- Gender differences in performance are minimal
 
 ## Plots
 
