@@ -35,3 +35,5 @@ This project focuses on cleaning and exploring the Titanic passenger dataset to 
 
 
 ## Plots
+- Sex vs Survived
+- <img width="624" height="466" alt="Image" src="https://github.com/user-attachments/assets/c8d9cced-c702-47da-9bbe-73abaefd1ddc" />
