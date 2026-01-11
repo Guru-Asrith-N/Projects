@@ -29,6 +29,10 @@ sns.boxplot(x='sex',y='G3',data = df)
 plt.title("Final grades by gender")
 plt.show()
 
-correlation = df[['studytime','failures','absences','G3']].corr()
+plt.figure(figsize=(8,6))
+sns.heatmap(df.corr(numeric_only=True), annot=True, cmap='coolwarm')
+plt.title('Correlation Heatmap')
+plt.savefig('correlation_heatmap.png', bbox_inches='tight')
+plt.show()
 
-print(correlation)
+
