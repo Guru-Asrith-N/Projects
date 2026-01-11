@@ -23,3 +23,6 @@ This project performs data cleaning and exploratory data analysis (EDA) on a stu
 - Seaborn
 
 ## Plots
+
+<img width="624" height="477" alt="Image" src="https://github.com/user-attachments/assets/b67b9d6c-45f8-426d-a007-0918bbfb88ee" />
+
